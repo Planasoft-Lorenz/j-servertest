@@ -15,5 +15,12 @@
       "product": "Döner",
       "price": 8
     }
+  ],
+  "orders": [
+    {
+      "mealIds": [
+        1, 3, 4
+      ]
+    }
   ]
 }
