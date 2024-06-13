@@ -3,13 +3,11 @@
     {
       "id": 1,
       "product": "Pizza Hawaii",
-      "quantity": 3,
       "price": 7
     },
     {
       "id": 2,
       "product": "Pizza Scharf",
-      "quantity": 1,
       "price": 10
     },
     {
