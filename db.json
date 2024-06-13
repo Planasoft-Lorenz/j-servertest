@@ -1,22 +1,21 @@
 {
-  "cartItems": [
+  "meals": [
     {
       "id": 1,
-      "product": "Apfel",
+      "product": "Pizza Hawaii",
       "quantity": 3,
-      "price": 0.5
+      "price": 7
     },
     {
       "id": 2,
-      "product": "Brot",
+      "product": "Pizza Scharf",
       "quantity": 1,
-      "price": 1.2
+      "price": 10
     },
     {
       "id": 3,
-      "product": "Milch",
-      "quantity": 2,
-      "price": 0.9
+      "product": "Döner",
+      "price": 8
     }
   ]
 }
