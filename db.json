@@ -1,29 +1,19 @@
 {
-  "meals": [
-    {
-      "id": 1,
-      "product": "Pizza Hawaii",
-      "price": 7,
-      "image": "https://picsum.photos/seed/5121232/400/300",
-    },
-    {
-      "id": 2,
-      "product": "Pizza Scharf",
-      "price": 10,
-      "image": "https://picsum.photos/seed/41221/400/300",
-    },
-    {
-      "id": 3,
-      "product": "Döner",
-      "price": 8,
-      "image": "https://picsum.photos/seed/12312/400/300",
-    }
-  ],
-  "orders": [
-    {
-      "mealIds": [
-        1, 3, 4
-      ]
-    }
-  ]
+    "todos": [
+        {
+            "id": 1,
+            "title": "Finish homework",
+            "description": "Complete the math assignment before tomorrow."
+        },
+        {
+            "id": 2,
+            "title": "Go grocery shopping",
+            "description": "Buy milk, eggs, and bread."
+        },
+        {
+            "id": 3,
+            "title": "Exercise",
+            "description": "Go for a run in the park."
+        }
+    ]
 }
